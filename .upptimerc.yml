@@ -21,7 +21,6 @@ sites:
 status-website:
   # Add your custom domain name
   cname: status.kamero.in
-  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Kamero.in Status
   introTitle: "**Kamero.in Uptime Monitor** is powered by Upptime."
@@ -29,8 +28,17 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Kamero
+      href: https://kamero.in
+      
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "2-59/5 * * * *"
 
 # Notifications configuration
 notifications:
