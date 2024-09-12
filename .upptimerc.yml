@@ -1,36 +1,41 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: kamero-in # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Kamero.in Website
+    url: https://kamero.in
+  - name: Kamero.in Admin
+    url: https://login.kamero.in
+  - name: Anmolkriti Event
+    url: https://kamero.in/anmolkriti
+  - name: API v2
+    url: https://apiv2.kamero.in/v1/check_app_v2
+  - name: Renewal Link
+    url: https://event.kamero.in/renew/anmolkriti
+  - name: Old API
+    url: https://goapi.kamero.in/v1/
+  - name: Event Viewer API
+    url: https://goapi.kamero.in/v1/event_home_viewer?eventCode=anmolkriti&skip=0&limit=2
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # Add your custom domain name
+  cname: status.kamero.in
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Kamero.in Status
+  introTitle: "**Kamero.in Uptime Monitor** is powered by Upptime."
+  introMessage: This page provides real-time status updates for Kamero.in services and APIs.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+# Notifications configuration
+notifications:
+  email:
+    - hitesh@kamero.in  # Replace with your actual email address
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
