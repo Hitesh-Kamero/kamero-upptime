@@ -1,0 +1,64 @@
+:root {
+  --primary-color: #6F4898;
+  --secondary-color: #FFB700;
+  --body-background-color: #f8f5ff;
+  --body-text-color: #333333;
+  --card-background-color: #ffffff;
+  --nav-background-color: var(--primary-color);
+  --nav-border-bottom-color: var(--secondary-color);
+  --navbar-link-color: #ffffff;
+  --navbar-link-hover-color: var(--secondary-color);
+  --status-up-color: #48bb78;
+  --status-down-color: #e53e3e;
+  --status-degraded-color: var(--secondary-color);
+  --border-color: #e2e8f0;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+.navbar-brand img {
+  max-height: 40px;
+}
+
+.navbar {
+  box-shadow: 0 2px 4px rgba(111, 72, 152, 0.2);
+}
+
+.card {
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(111, 72, 152, 0.1);
+  transition: all 0.3s ease;
+  border-top: 3px solid var(--primary-color);
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 8px rgba(111, 72, 152, 0.15);
+}
+
+.status-up {
+  color: var(--status-up-color);
+}
+
+.status-down {
+  color: var(--status-down-color);
+}
+
+.status-degraded {
+  color: var(--status-degraded-color);
+}
+
+.navbar-nav .nav-link:hover {
+  color: var(--secondary-color) !important;
+}
+
+.footer {
+  background-color: var(--primary-color);
+  color: #ffffff;
+}
+
+.footer a {
+  color: var(--secondary-color);
+}
