@@ -14,7 +14,7 @@ sites:
   - name: Renewal Link
     url: https://event.kamero.in/renew/anmolkriti
   - name: V1 API
-    url: https://goapi.kamero.in/v1/event_home_viewer?eventCode=anmolkriti&skip=0&limit=
+    url: https://goapi.kamero.in/v1/event_home_viewer?eventCode=anmolkriti&skip=0&limit=0
 
 status-website:
   # Add your custom domain name
