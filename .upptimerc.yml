@@ -28,6 +28,8 @@ status-website:
       href: /
     - title: Kamero
       href: https://kamero.in
+  theme: light
+  customCss: /assets/custom-styles.css
 
 workflowSchedule:
   graphs: "0 0 * * *"
