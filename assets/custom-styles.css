@@ -31,14 +31,25 @@ body {
   display: none;
 }
 
-footer {
-  background-color: var(--primary-color);
-  color: #ffffff;
-  padding: 10px 0;
+.footer-content {
   position: absolute;
   bottom: 0;
+  left: 0;
   width: 100%;
+  background-color: var(--primary-color);
+  color: #ffffff;
   text-align: center;
+  padding: 10px 0;
+}
+
+/* Hide the default Upptime footer if it exists */
+footer:not(.footer-content) {
+  display: none;
+}
+
+/* Ensure the main content doesn't overlap with the footer */
+.container {
+  padding-bottom: 60px; /* Should match the footer height */
 }
 
 footer small {
