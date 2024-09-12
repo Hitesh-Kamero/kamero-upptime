@@ -22,7 +22,7 @@ status-website:
   logoUrl:  https://raw.githubusercontent.com/Hitesh-Kamero/kamero-upptime/master/assets/kamero_icon.png
   name: "Kamero status monitor"
   introTitle: "**Kamero Uptime Monitor**"
-  introMessage: This page provides real-time status updates for Kamero.in services and APIs. Kamero - AI powered photo sharing for events.
+  introMessage: This portal provides real-time status updates for Kamero.in services and APIs. Kamero - AI powered photo sharing for events.
   navbar:
     - title: Status
       href: /
@@ -30,6 +30,12 @@ status-website:
       href: https://kamero.in
   theme: light
   customCss: /assets/custom-styles.css
+  favicon : https://raw.githubusercontent.com/Hitesh-Kamero/kamero-upptime/master/assets/android-chrome-192x192.png
+  customHeadHtml: "<meta name='description' content='Kamero.in service status'>"
+  customBodyHtml: |
+    <footer class="text-center mt-5 mb-3">
+      <small>© 2024 Kamero.in. All rights reserved.</small>
+    </footer>
 
 workflowSchedule:
   graphs: "0 0 * * *"
