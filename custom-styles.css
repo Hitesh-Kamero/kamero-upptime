@@ -15,7 +15,34 @@
 }
 
 body {
-  font-family: 'Arial', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  position: relative;
+  min-height: 100vh;
+  padding-bottom: 60px;
+  background-color: var(--body-background-color);
+  color: var(--body-text-color);
+}
+
+.navbar-brand, h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+}
+
+.footer > .container {
+  display: none;
+}
+
+footer {
+  background-color: var(--primary-color);
+  color: #ffffff;
+  padding: 10px 0;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+footer small {
+  font-size: 0.9em;
 }
 
 .navbar-brand img {
@@ -23,14 +50,25 @@ body {
 }
 
 .navbar {
+  background-color: var(--nav-background-color);
   box-shadow: 0 2px 4px rgba(111, 72, 152, 0.2);
 }
 
+.navbar-nav .nav-link {
+  color: var(--navbar-link-color) !important;
+}
+
+.navbar-nav .nav-link:hover {
+  color: var(--navbar-link-hover-color) !important;
+}
+
 .card {
+  background-color: var(--card-background-color);
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(111, 72, 152, 0.1);
   transition: all 0.3s ease;
   border-top: 3px solid var(--primary-color);
+  margin-bottom: 20px;
 }
 
 .card:hover {
@@ -50,15 +88,31 @@ body {
   color: var(--status-degraded-color);
 }
 
-.navbar-nav .nav-link:hover {
-  color: var(--secondary-color) !important;
+.graph {
+  --color-graph-1: #6F4898;
+  --color-graph-2: #FFB700;
+  --color-graph-3: #8A6CB8;
+  --color-graph-4: #FFD166;
 }
 
-.footer {
+.response-time-graph .color {
+  background-color: #6F4898 !important;
+}
+
+.type-label {
   background-color: var(--primary-color);
-  color: #ffffff;
+  color: white;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.8em;
 }
 
-.footer a {
+.uptime-percent {
+  font-weight: bold;
+  color: var(--primary-color);
+}
+
+.response-time {
   color: var(--secondary-color);
+  font-weight: bold;
 }
