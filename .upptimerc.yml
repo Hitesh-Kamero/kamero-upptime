@@ -7,16 +7,15 @@ sites:
     url: https://kamero.in
   - name: Kamero.in Admin
     url: https://login.kamero.in
-  - name: Anmolkriti Event
+  - name: Weblink Project
     url: https://kamero.in/anmolkriti
   - name: API v2
     url: https://apiv2.kamero.in/v1/check_app_v2
   - name: Renewal Link
     url: https://event.kamero.in/renew/anmolkriti
-  - name: Old API
-    url: https://goapi.kamero.in/v1/
-  - name: Event Viewer API
-    url: https://goapi.kamero.in/v1/event_home_viewer?eventCode=anmolkriti&skip=0&limit=2
+  - name: V1 API
+    url: https://goapi.kamero.in/v1/event_home_viewer?eventCode=anmolkriti&skip=0&limit=
+
 
 status-website:
   # Add your custom domain name
