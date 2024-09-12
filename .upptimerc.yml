@@ -35,9 +35,9 @@ status-website:
     <meta name='description' content='Kamero.in service status'>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
   customBodyHtml: |
-    <footer class="text-center mt-5 mb-3">
+    <div id="custom-footer" class="footer-content">
       <small>© 2024 Kamero.in. All rights reserved.</small>
-    </footer>
+    </div>
 
 workflowSchedule:
   graphs: "0 0 * * *"
