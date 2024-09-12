@@ -20,7 +20,6 @@ status-website:
   # Add your custom domain name
   cname: status.kamero.in
   logoUrl: https://kamero-public.s3.ap-south-1.amazonaws.com/logos/KAMERO+LOGO+COLOUR.png
-  name: Kamero.in Status
   introTitle: "**Kamero Uptime Monitor**"
   introMessage: This page provides real-time status updates for Kamero.in services and APIs. Kamero - AI powered photo sharing for events.
   navbar:
