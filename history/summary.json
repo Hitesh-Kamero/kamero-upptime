@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/kamero.in.ico",
     "slug": "kamero-in-website",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 871,
-    "timeDay": 995,
-    "timeWeek": 940,
-    "timeMonth": 871,
-    "timeYear": 871,
-    "dailyMinutesDown": {
-      "2024-09-24": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 877,
+    "timeDay": 1105,
+    "timeWeek": 964,
+    "timeMonth": 877,
+    "timeYear": 877,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Kamero.in Admin",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 902,
-    "timeDay": 833,
+    "time": 901,
+    "timeDay": 856,
     "timeWeek": 891,
-    "timeMonth": 902,
-    "timeYear": 902,
+    "timeMonth": 901,
+    "timeYear": 901,
     "dailyMinutesDown": {}
   },
   {
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/kamero.in.ico",
     "slug": "weblink-project",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 729,
-    "timeDay": 728,
-    "timeWeek": 733,
-    "timeMonth": 729,
-    "timeYear": 729,
-    "dailyMinutesDown": {
-      "2024-09-24": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 726,
+    "timeDay": 730,
+    "timeWeek": 721,
+    "timeMonth": 726,
+    "timeYear": 726,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API v2",
@@ -68,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 916,
-    "timeDay": 834,
-    "timeWeek": 891,
-    "timeMonth": 916,
-    "timeYear": 916,
+    "time": 914,
+    "timeDay": 855,
+    "timeWeek": 887,
+    "timeMonth": 914,
+    "timeYear": 914,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 955,
-    "timeDay": 828,
-    "timeWeek": 956,
-    "timeMonth": 955,
-    "timeYear": 955,
+    "time": 952,
+    "timeDay": 873,
+    "timeWeek": 958,
+    "timeMonth": 952,
+    "timeYear": 952,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1123,
-    "timeDay": 1046,
-    "timeWeek": 1145,
-    "timeMonth": 1123,
-    "timeYear": 1123,
+    "time": 1122,
+    "timeDay": 1089,
+    "timeWeek": 1134,
+    "timeMonth": 1122,
+    "timeYear": 1122,
     "dailyMinutesDown": {}
   }
 ]
