@@ -42,19 +42,19 @@
     "url": "https://kamero.in/anmolkriti",
     "icon": "https://icons.duckduckgo.com/ip3/kamero.in.ico",
     "slug": "weblink-project",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 704,
-    "timeDay": 538,
-    "timeWeek": 628,
-    "timeMonth": 687,
-    "timeYear": 704,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 721,
+    "timeDay": 839,
+    "timeWeek": 739,
+    "timeMonth": 718,
+    "timeYear": 721,
     "dailyMinutesDown": {
-      "2024-10-24": 2
+      "2024-10-24": 15
     }
   },
   {
@@ -98,19 +98,19 @@
     "url": "https://goapi.kamero.in/v1/event_home_viewer?eventCode=anmolkriti&skip=0&limit=0",
     "icon": "https://icons.duckduckgo.com/ip3/goapi.kamero.in.ico",
     "slug": "v1-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1142,
-    "timeDay": 1073,
-    "timeWeek": 1102,
-    "timeMonth": 1157,
-    "timeYear": 1142,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 1144,
+    "timeDay": 1133,
+    "timeWeek": 1118,
+    "timeMonth": 1160,
+    "timeYear": 1144,
     "dailyMinutesDown": {
-      "2024-10-24": 0
+      "2024-10-24": 13
     }
   }
 ]
