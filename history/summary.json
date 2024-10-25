@@ -26,12 +26,12 @@
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 904,
     "timeDay": 1028,
     "timeWeek": 884,
-    "timeMonth": 907,
+    "timeMonth": 910,
     "timeYear": 904,
     "dailyMinutesDown": {
       "2024-09-25": 28
@@ -98,9 +98,9 @@
     "url": "https://goapi.kamero.in/v1/event_home_viewer?eventCode=anmolkriti&skip=0&limit=0",
     "icon": "https://icons.duckduckgo.com/ip3/goapi.kamero.in.ico",
     "slug": "v1-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,6 +109,8 @@
     "timeWeek": 1140,
     "timeMonth": 1166,
     "timeYear": 1146,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-25": 0
+    }
   }
 ]
