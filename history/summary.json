@@ -60,19 +60,19 @@
     "url": "https://apiv2.kamero.in/v1/check_app_v2",
     "icon": "https://icons.duckduckgo.com/ip3/apiv2.kamero.in.ico",
     "slug": "api-v2",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 911,
-    "timeDay": 1008,
-    "timeWeek": 888,
-    "timeMonth": 909,
-    "timeYear": 911,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "97.93%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.95%",
+    "time": 912,
+    "timeDay": 983,
+    "timeWeek": 895,
+    "timeMonth": 910,
+    "timeYear": 912,
     "dailyMinutesDown": {
-      "2024-10-25": 0
+      "2024-10-25": 30
     }
   },
   {
