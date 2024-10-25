@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kamero.in.ico",
     "slug": "weblink-project",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
     "time": 722,
     "timeDay": 784,
     "timeWeek": 753,
     "timeMonth": 719,
     "timeYear": 722,
     "dailyMinutesDown": {
-      "2024-10-25": 1
+      "2024-10-25": 20
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://apiv2.kamero.in/v1/check_app_v2",
     "icon": "https://icons.duckduckgo.com/ip3/apiv2.kamero.in.ico",
     "slug": "api-v2",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "97.92%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.95%",
-    "time": 931,
-    "timeDay": 1176,
-    "timeWeek": 998,
-    "timeMonth": 944,
-    "timeYear": 931,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "96.70%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.92%",
+    "time": 921,
+    "timeDay": 1034,
+    "timeWeek": 946,
+    "timeMonth": 927,
+    "timeYear": 921,
     "dailyMinutesDown": {
-      "2024-10-25": 30
+      "2024-10-25": 48
     }
   },
   {
@@ -101,18 +101,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/goapi.kamero.in.ico",
     "slug": "v1-api",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "96.59%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.89%",
+    "uptimeDay": "95.26%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.89%",
     "time": 1154,
     "timeDay": 1452,
     "timeWeek": 1188,
     "timeMonth": 1180,
     "timeYear": 1154,
     "dailyMinutesDown": {
-      "2024-10-25": 49
+      "2024-10-25": 68
     }
   }
 ]
