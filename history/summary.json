@@ -43,18 +43,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/kamero.in.ico",
     "slug": "weblink-project",
     "status": "down",
-    "uptime": "99.25%",
-    "uptimeDay": "67.22%",
-    "uptimeWeek": "95.32%",
-    "uptimeMonth": "98.92%",
-    "uptimeYear": "99.25%",
+    "uptime": "99.14%",
+    "uptimeDay": "62.45%",
+    "uptimeWeek": "94.64%",
+    "uptimeMonth": "98.77%",
+    "uptimeYear": "99.14%",
     "time": 889,
     "timeDay": 4283,
     "timeWeek": 1641,
     "timeMonth": 1027,
     "timeYear": 889,
     "dailyMinutesDown": {
-      "2024-10-25": 471
+      "2024-10-26": 63,
+      "2024-10-25": 477
     }
   },
   {
