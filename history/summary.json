@@ -94,9 +94,9 @@
     "url": "https://event.kamero.in/renew/anmolkriti",
     "icon": "https://icons.duckduckgo.com/ip3/event.kamero.in.ico",
     "slug": "renewal-link",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.67%",
     "uptimeYear": "99.23%",
@@ -106,6 +106,7 @@
     "timeMonth": 887,
     "timeYear": 1098,
     "dailyMinutesDown": {
+      "2024-11-30": 0,
       "2024-11-19": 122,
       "2024-11-05": 459,
       "2024-10-26": 299
