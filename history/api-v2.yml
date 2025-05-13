@@ -1,7 +1,7 @@
 url: https://apiv2.kamero.in/v1/check_app_v2
 status: down
-code: 502
-responseTime: 3982
-lastUpdated: 2025-05-12T23:22:37.976Z
+code: 504
+responseTime: 10956
+lastUpdated: 2025-05-13T23:23:08.699Z
 startTime: 2024-09-12T03:13:14.379Z
 generator: Upptime <https://github.com/upptime/upptime>
